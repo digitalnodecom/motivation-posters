@@ -1,2 +1,2 @@
-# motivation-posters
-## Motivational posters in vector format.
+# Motivational Posters
+## Collection of Motivational Posters for your offices.
