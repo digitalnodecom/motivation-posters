@@ -1,2 +1,2 @@
 # Motivational Posters
-## Collection of Motivational Posters for your offices.
+### Collection of Motivational Posters for your offices.
